@@ -1,1 +1,1 @@
-# crick-project-ecommerce-app
+# cricket-project-ecommerce-app
